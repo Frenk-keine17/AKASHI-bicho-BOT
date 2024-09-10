@@ -5,11 +5,11 @@ RUN sudo dnf -y update &&\
     sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
     sudo dnf clean all -y
 
-RUN git clone https://github.com/toge012345/TOGE-MD-V2
+RUN git clone https://github.com/AKASHI-SASAKI/AKASHI-bicho-BOT
 
-WORKDIR /root/TOGE-MD-V2
+WORKDIR /root/AKASHI-BICHO-BOT
 
-COPY ./root/TOGE-MD-V2
+COPY ./root/AKASHI-BICHO-BOT
 
 RUN yarn install
 
