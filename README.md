@@ -1,20 +1,11 @@
 <h1 align="center"> AKASHI-bicho-BOT </h1> 
 
 <a><img src='https://i.imgur.com/gY5LVek.gif'/></a>
-<a><img src='https://i.imgur.com/gY5LVek.gif'/></a>
 
 <h1 align="center"> AKASHI-bicho-BOT</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+AKASHI-bicho-BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ARTHUR&AKASHI" alt="Typing SVG" /></a>
-  </p>
-<a><img src='https://i.imgur.com/gY5LVek.gif'/></a>
-<a><img src='https://i.imgur.com/gY5LVek.gif'/></a>
-<p align="center"> 
-<img src="https://i.imgur.com/gY5LVek.jpeg" />
 
-<p/>
-<a><img src='https://i.imgur.com/gY5LVek.gif'/></a>
-<a><img src='https://i.imgur.com/gY5LVek.gif'/></a>
   
 <p align="center">
 <a href="https://github.com/AKASHI-SASAKI"><img title="Author" src="https://img.shields.io/badge/SASAKI Bot-black?style=for-the-badge&logo=whatsApp"></a>
