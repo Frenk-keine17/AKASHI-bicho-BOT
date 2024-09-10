@@ -12,7 +12,7 @@
 <p/>
 <p align="center">
 <a href="https://github.com/AKASHI-SASAKI?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AKASHI-SASAKI?label=Followers&style=social"></a>
-<a href="https://github.com/AKASHI-SASAKI/AKASHI-bicho-BOT-SPEED/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AKASHI-SASAKI/AKASHI-bicho-BOT?&style=social"></a>
+<a href="https://github.com/AKASHI-SASAKI/AKASHI-bicho-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AKASHI-SASAKI/AKASHI-bicho-BOT?&style=social"></a>
 <a href="https://github.com/AKASHI-SASAKI/AKASHI-bicho-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/AKASHI-SASAKI/AKASHI-bicho-BOT?style=social"></a>
 <a href="https://github.com/AKASHI-SASAKI/AKASHI-bicho-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AKASHI-SASAKI/AKASHI-bicho-BOT ?label=Watching&style=social"></a>
 </p>
