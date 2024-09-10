@@ -17,7 +17,7 @@ global.packname = '𝑨𝑲𝑨𝑺𝑯𝑰-𝐵𝑖𝐶𝐻𝑂-𝐵𝑜𝑡'
 global.author = '𝐵𝑖𝐶𝐻𝑂-𝐵𝑜𝑡'
 
 //console view/theme
-global.themeemoji = '👾'
+global.themeemoji = '👹'
 global.wm = "𝑨𝑲𝑨𝑺𝑯𝑰"
 
 //theme link
