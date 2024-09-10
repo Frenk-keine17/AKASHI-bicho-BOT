@@ -1,9 +1,9 @@
 services:
   - type: web
-    name: TOGE-MD-V2
+    name: AKASHI-BICHO-BOT
     env: node
     branch: main
-    repo: https://github.com/toge012345/TOGE-MD-V2.git
+    repo: https://github.com/AKASHI-SASAKI/AKASHI-bicho-BOT.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
