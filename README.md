@@ -40,3 +40,67 @@
 ### PAIRING CODE.
 <a href='https://sasaki-md-v2-paire-87pj.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
+
+
+
+---
+
+## ⚠️ AVERTISSEMENT ⚠️
+
+. Utilisez ce bot à vos propres risques et périls. et svp éviter les spams je veux dire par là que éviter de signaler notre gît.
+
+---
+
+## DEPLOYEMENT SUR GITHUB 
+
+```yaml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'  # Relance toutes les 6 heures
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Install FFmpeg
+      run: sudo apt-get install -y ffmpeg
+
+    - name: Start application with timeout
+      run: |
+        timeout 21590s npm start  # Limite l'exécution à 5h 59m 50s
+
+    - name: Save state (Optional)
+      run: |
+        ./save_state.sh
+
+
+## Contributeurs 🤝
+
+<a href="https://github.com/AKASHI-SASAKI">
+  <img src="https://github.com/AKASHI-SASAKI.png" width="200" height="200" alt="AKASHI-SASAKI"/>
+</a>
