@@ -46,7 +46,7 @@
 ## Développeur 💀
 
 <a href="https://github.com/AKASHI-SASAKI">
-  <img src="https://github.com/AKASHI-SASAKI.png" width="200" height="200" alt="AKASHI-SASAKI"/>
+  <img src="https://github.com/AKASHI-SASAKI.png" width="100" height="100" alt="AKASHI-SASAKI"/>
 </a>
 <p align="center"><strong>AKASHI-SASAKI</strong></p>
 
@@ -55,12 +55,12 @@
 ## Contributeurs 🤝
 
 <a href="https://github.com/Alp24ni">
-  <img src="https://github.com/Alp24ni.png" width="200" height="200" alt="Alp24ni"/>
+  <img src="https://github.com/Alp24ni.png" width="100" height="100" alt="Alp24ni"/>
 </a>
 <p align="center"><strong>Alp24ni</strong></p>
 
 <a href="https://github.com/AKASHI-SASAKI">
-  <img src="https://github.com/AKASHI-SASAKI.png" width="200" height="200" alt="AKASHI-SASAKI"/>
+  <img src="https://github.com/AKASHI-SASAKI.png" width="100" height="100" alt="AKASHI-SASAKI"/>
 </a>
 <p align="center"><strong>AKASHI-SASAKI</strong></p>
 
